@@ -94,6 +94,9 @@
     margin: 15px ;
     
 }
+.para{
+  color: rgba(14, 14, 14, 0.7);
+}
 .satalight2{
     display: flex;
 
@@ -120,7 +123,7 @@
    }
    .donate{
     text-align: center;
-    gap: 10px;
+    gap: 32px;
    }
    .form{
     margin: 15px;
@@ -129,11 +132,112 @@
    }
 /* PARENT & CHILD */
 .btn-container{
-  display: flex;
-  justify-content: center;
-  text-align: center;
-  gap: 24px;
-  padding: 40px;
-  text-align: 24px;
+  Width: 1071pxpx
+  Height: 128pxpx
+  Top: 152pxpx
+  Left: 104.5pxpx
+  Fillet radius: 0px
+  Layout padding: 0px, 0px, 0px, 0px
+  Layout distribution: Concentrated distribution
+  Layer mode :Pass through
   
+}
+/* last work */
+.subcribe-box{
+  background-color: rgb(198,228,214);
+  border-radius: 24px;
+  width: 1280px;
+  height: 325px;
+  align-items: center;
+  padding: 80px 100px 80px 100px;
+  margin: 80px 0px;
+}
+.description-donate{
+  text-align: center;
+
+}
+.subcribe{
+  display: flex;
+  justify-content: none;
+}
+.email-box{
+  text-align: center;
+  Width: 600pxpx
+  Height: 55pxpx
+  Top: 0pxpx
+  Left: 0pxpx
+  Fillet radius: 8px,0px,0px,8px
+  Layout padding: 18px, 40px, 18px, 40px
+  
+ 
+}
+
+.btn-primary1{
+  width: 150px;
+  height: 56px;
+  background-color: rgb(0, 106, 80);
+  text-align: center;
+}
+
+/* challenges */
+.total{
+position: static;
+width: 1280px;
+height: 256px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 48px 24px 48px 24px;
+flex: none;
+order: 0;
+flex-grow: 1;
+margin: 0px 24px;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+}
+.lorem{
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.Yunus{
+position: static;
+width: 1232px;
+height: 52px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 4;
+padding: 0px;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 12px 0px;
+}
+
+.sing{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 24px 160px 24px 160px;
+background: rgb(245, 245, 245);
+
+}
+.sss{
+box-sizing: border-box;
+border: 2px solid rgb(0, 106, 80);
+border-radius: 5px;
+
+
+
 }
